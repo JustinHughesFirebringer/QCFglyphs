@@ -48,6 +48,24 @@ body {
     background-color: #1b263b;
 }
 
+.nav-tabs a.highlight {
+    background-color: #7209b7;
+    color: white;
+    position: relative;
+}
+
+.nav-tabs a.highlight::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 8px;
+    height: 8px;
+    background-color: #f72585;
+    border-radius: 50%;
+}
+
 .glyph-section {
     margin-bottom: 60px;
     border-bottom: 1px solid #415a77;

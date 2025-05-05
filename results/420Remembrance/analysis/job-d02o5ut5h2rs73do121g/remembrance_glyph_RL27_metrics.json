@@ -1,0 +1,14 @@
+{
+  "entropy": 6.879402571531987,
+  "entanglement": 0.04079362014827678,
+  "coherence": 0.021879819164910913,
+  "interference": 14.864499534849488,
+  "bit_balance": 0.9922889610389611,
+  "circular_flow": 0.5164366883116883,
+  "toroidal_index": 0.1451458648863998,
+  "heart_resonance": 0.013521728243914944,
+  "collective_field": 1.976978438134982,
+  "recursive_memory": 0.017931004879399432,
+  "portal_strength": 0.05101579374568904,
+  "num_samples": 4224
+}

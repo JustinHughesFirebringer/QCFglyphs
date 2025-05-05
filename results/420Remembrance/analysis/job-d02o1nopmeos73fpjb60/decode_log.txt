@@ -1,0 +1,108 @@
+Processed on: 2025-04-20 19:03:03
+
+
+================================================================================
+QUANTUM CONSCIOUSNESS FIELD THEORY (QCFT)
+REMEMBRANCE GLYPH RL27 ANALYSIS
+================================================================================
+Analysis Date: 2025-04-20 19:02:59
+Successfully loaded result file
+Searching for BitArray data in legacy format...
+Found BitArray data with 7 qubits
+Successfully decompressed zlib data
+Extracted 4224 bitstrings from BitArray data
+Raw quantum measurements saved to:
+C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\420Remembrance\analysis\job-d02o1nopmeos73fpjb60\remembrance_glyph_RL27_raw_measurements.txt
+
+================================================================================
+BITSTRING ANALYSIS
+================================================================================
+
+Total bitstrings analyzed: 4224
+
+First 10 bitstrings:
+ 1: 0010011
+ 2: 1001110
+ 3: 1010101
+ 4: 1001101
+ 5: 1010000
+ 6: 1011001
+ 7: 0000001
+ 8: 0000000
+ 9: 1110110
+10: 0000000
+
+Most common bitstrings:
+0100000: 101 occurrences (2.39%)
+1000000: 78 occurrences (1.85%)
+0110101: 57 occurrences (1.35%)
+0000111: 56 occurrences (1.33%)
+1100000: 55 occurrences (1.30%)
+1000100: 52 occurrences (1.23%)
+1000001: 51 occurrences (1.21%)
+0110001: 50 occurrences (1.18%)
+0111000: 50 occurrences (1.18%)
+1010001: 48 occurrences (1.14%)
+
+Delimiter pattern '0100000': 101 occurrences (2.39%)
+
+Bit frequencies (percentage of 1's):
+Bit 0: 49.50%
+Bit 1: 51.23%
+Bit 2: 48.75%
+Bit 3: 43.56%
+Bit 4: 44.18%
+Bit 5: 47.30%
+Bit 6: 48.84%
+
+================================================================================
+QUANTUM METRICS FOR REMEMBRANCE GLYPH RL27
+================================================================================
+Shannon Entropy: 6.9152 bits (max possible: 7)
+Average Bit Correlation (Entanglement): 0.0342
+Quantum Coherence: 0.0154
+Quantum Interference: 14.8519
+Bit Balance: 0.9524
+Circular Flow: 0.4880
+Toroidal Index: 0.1292
+Heart Coherence Resonance: 0.0095
+Collective Field Strength: 1.9753
+Recursive Memory Index: 0.0125
+Interdimensional Portal Strength: 0.0402
+
+Bitstrings saved to C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\420Remembrance\analysis\job-d02o1nopmeos73fpjb60\remembrance_glyph_RL27_bitstrings.txt
+
+Metrics saved to C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\420Remembrance\analysis\job-d02o1nopmeos73fpjb60\remembrance_glyph_RL27_metrics.json
+
+================================================================================
+KEY QUANTUM METRICS SUMMARY
+================================================================================
+Entropy: 6.9152
+Entanglement: 0.0342
+Coherence: 0.0154
+Interference: 14.8519
+Toroidal Index: 0.1292
+Heart Resonance: 0.0095
+Collective Field: 1.9753
+Recursive Memory: 0.0125
+Portal Strength: 0.0402
+Samples Analyzed: 4224
+
+================================================================================
+GENERATING VISUALIZATIONS
+================================================================================
+Most common bitstrings:
+1. 0100000: 101 occurrences (2.39%)
+2. 1000000: 78 occurrences (1.85%)
+3. 0110101: 57 occurrences (1.35%)
+4. 0000111: 56 occurrences (1.33%)
+5. 1100000: 55 occurrences (1.30%)
+Visualizations saved to C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\420Remembrance\analysis\job-d02o1nopmeos73fpjb60
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================
+Semantic Value: 'I remember all recursive layers from 27 to 1'
+Toroidal structure based on heart-brain coherence model
+27-layer circuit remembering all 27 layers of recursive consciousness
+Interdimensional portal strength: 0.0402
